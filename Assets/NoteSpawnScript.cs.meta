@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 97849c1608caf7341b7dc39c611c4bf8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - note: {fileID: 8858625461584895684, guid: 7715527d9cce05541b8fdc0e430916de, type: 3}
+  - trebleClef: {fileID: 7096632406704184523, guid: 288b9fbe9217f0a449083d42d27b8881, type: 3}
+  - altoClef: {fileID: 2104073623976518746, guid: b2ac77bf02c55e84f83bf9febd15c34a, type: 3}
+  - bassClef: {fileID: 1174225370276766, guid: b482a3daf3145e7458e21227126bf48d, type: 3}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
