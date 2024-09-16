@@ -1,0 +1,1 @@
+This project was made by Aryan Bandi and is intended to help musicians with sightreading practice. The current version is primarily used for note recognition, and future ideas to implement include finger patterns & positions, tenor clef, leaderboards, and accuracy gamemodes.
